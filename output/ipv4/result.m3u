@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/luogu-liuzhongyuan/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🕘️更新时间",2025-12-06 06:25:25
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🕘️更新时间",2025-12-07 18:02:03
 http://xxx.m3u8
 #EXTINF:-1 tvg-name="自定义频道1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/自定义频道1.png" group-title="频道分类",自定义频道1
 http://xxx.m3u8
