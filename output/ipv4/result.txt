@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-01-14 06:29:48,http://xxx.m3u8
+2026-01-15 18:11:39,https://live.catvod.com/iptv.php?id=wxty01
 
 🏀体育频道,#genre#
+五星体育,https://live.catvod.com/iptv.php?id=wxty01
 
 频道分类,#genre#
 自定义频道1,http://xxx.m3u8
